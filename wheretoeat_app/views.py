@@ -7,9 +7,9 @@ from apis.yelp import *
 from apis.calendar import *
 from apis.weather import *
 
-yelp_key = "l9GHnW6LlEgDMTNA0JXYVdeAhLDGRXa4I0ffS2IJvWpUmd86e90FVIQfoOYIf5pLMDcINjElK15BSPLLLlTPxZuz5pBDofPZHPex3KQ1edjCe4ioxypjjfv79ctpXHYx"
-direction_key = "AIzaSyApDGqzzI_J0jxdC44gnyE9TxkPrSAZmcI"
-weather_key = "c7ab436b930eec6dc0524c12b00517c7"
+yelp_key = ""
+direction_key = ""
+weather_key = ""
 
 def start(request):
 
